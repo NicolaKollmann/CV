@@ -28,9 +28,15 @@ Skills {#skills}
 
 - Experienced in statistical analysis, statistical learning models, and optimization methods.
 
-- Full experience with next generation sequencing data analysis.
+- Full experience with MacOS and Windows.
 
-- Highly skilled in R, Stata, LaTeX
+- Highly skilled in Microsoft Office, R, Stata & LaTeX
+
+Languages {#languages}
+--------------------------------------------------------------------------------
+
+German    -     nativ  
+English   -     C2
 
 
 Disclaimer {#disclaimer}
@@ -79,7 +85,7 @@ St.Gallen, Switzerland
 
 2018
 
-Thesis: Dyadic wavelet and its application in edge detection
+Thesis: *The Adoption of Electronic Banking: Evidence from Liechtenstein*
 
 ### BI Norwegian Business School
 
@@ -108,9 +114,8 @@ St.Gallen, Switzerland
 
 currently - 2018
 
-- Performed computational biology research towards understanding regulation of alternative splicing in human and mouse transcriptome.
-- Found EGFR pathway related mutations, aimed to understand the impacts of cancer mutations on EGFR signaling pathway.
-
+- Looking into the role of creditors in corporate governance.
+- Created a data base on covenant violations.
 
 Professional Experience {data-icon=suitcase}
 --------------------------------------------------------------------------------
@@ -124,9 +129,8 @@ Ruggell, Liechtenstein
 2018
 
 ::: concise
-- Taught R language to beginners. 
-- Wrote Shiny app demos.
-- Converted statistical tutorials from SPSS to R language.
+- Created and lead workshops on business model innovation. 
+- Worked with the business model canvas and empathy maps.
 :::
 
 ### Financial Services, intern
@@ -138,10 +142,9 @@ Ruggell, Liechtenstein
 2016 - 2015
 
 ::: concise
-- Analyzed whole-exome sequencing data. 
-- Wrote analysis pipelines of ChIP-seq, single cell DNA-seq and single cell RNA-seq.
-- Studied tumor metastasis and wrote research reports. 
-- Also did case studies to identify the genetic defect causing rare disease.
+- Assisted in the implementation of a new ERP system. 
+- Worked on a digitalization project.
+- Assisted in the administration of a family office.
 :::
 
 ### Group Accounting, intern
@@ -153,53 +156,6 @@ Schaan, Liechtenstein
 2014
 
 ::: concise
-- Analyzed whole-exome sequencing data. 
-- Wrote analysis pipelines of ChIP-seq, single cell DNA-seq and single cell RNA-seq.
-- Studied tumor metastasis and wrote research reports. 
-- Also did case studies to identify the genetic defect causing rare disease.
+- Wrote a chapter on "Performance Management" in the corporate finance manual. 
+- Analyzed balanced scorecards and created an overview of key performance indicators.
 :::
-
-
-
-Teaching Experience {data-icon=chalkboard-teacher}
---------------------------------------------------------------------------------
-
-### Introduction to R Language for Beginners.
-
-Instructor of R and Data Mining Training Courses at SupStat Inc.
-
-Beijing, China
-
-2014
-
-### Computational Biology and Bioinformatics.
-
-Teaching assistant of GBS CB2-201 courses at UAB
-
-AL, USA
-
-2016 - 2017
-
-
-Selected Publications and Posters {data-icon=file}
---------------------------------------------------------------------------------
-
-### Genetic and epigenetic signals are found predictive to the distribution of intra-individual divergence of alternative splicing.
-
-Poster for 2013 International Conference of Genomics
-
-Qingdao, China
-
-2014
-
-**Yu L**, Chen B, Zhang Z.
-
-### ESCRT-0 complex modulates Rbf mutant cell survival by regulating Rhomboid endosomal trafficking and EGFR signaling.
-
-J Cell Sci. 2016 May 15;129(10):2075-84.
-
-N/A
-
-2016 
-
-Sheng Z, **Yu L**, Zhang T, Pei X, Li X, Zhang Z and Du W. 
