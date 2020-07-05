@@ -14,7 +14,7 @@ Aside
 ================================================================================
 
 
-![Nicola Kollmann](https://github.com/NicolaKollmann/Website_Tranquilpeak/blob/master/static/images/profile.jpeg?raw=true){width=80%}
+![Nicola Kollmann](https://avatars3.githubusercontent.com/u/57948862?s=460&u=258033fc01717effe401fe98fa3bf70054d66d00&v=4){width=80%}
 
 
 Contact Info {#contact}
