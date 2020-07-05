@@ -14,7 +14,7 @@ Aside
 ================================================================================
 
 
-![Lijia Yu](https://avatars1.githubusercontent.com/u/895125?s=400&v=4){width=80%}
+![Nicola Kollmann](https://github.com/NicolaKollmann/Website_Tranquilpeak/blob/master/static/images/profile.jpeg?raw=true){width=80%}
 
 
 Contact Info {#contact}
