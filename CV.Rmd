@@ -30,7 +30,7 @@ Skills {#skills}
 
 - Full experience with next generation sequencing data analysis.
 
-- Highly skilled in R, Bash, Perl, Python, LaTeX
+- Highly skilled in R, Stata, LaTeX
 
 
 Disclaimer {#disclaimer}
@@ -39,6 +39,8 @@ Disclaimer {#disclaimer}
 This CV was crafted with [**pagedown**](https://github.com/rstudio/pagedown).  
 
 Find the source of this CV on [**Github**](https://github.com/NicolaKollmann/CV).
+
+References available on request.
 
 Last updated on `r Sys.Date()`.
 
@@ -51,7 +53,7 @@ Nicola Kollmann {#title}
 --------------------------------------------------------------------------------
 
 
-<i class="fa fa-mobile"></i> +423 789 23 11 | <i class="fa fa-envelope"></i> nicola@kollmann.li | [<i class="fa fa-linkedin"></i>](https://www.linkedin.com/in/nicola-andreas-kollmann-546b06128/) 
+<i class="fa fa-mobile"></i> &nbsp; +423 789 23 11 &nbsp;|&nbsp; <i class="fa fa-envelope"></i> nicola@kollmann.li &nbsp;|&nbsp; [<i class="fa fa-linkedin"></i>](https://www.linkedin.com/in/nicola-andreas-kollmann-546b06128/) &nbsp;|&nbsp; [<i class="fa fa-twitter"></i>](https://twitter.com/NicolaKollmann) &nbsp;|&nbsp; [<i class="fa fa-github"></i>](https://github.com/NicolaKollmann)  
 
 A 25-year-old Banking and Finance graduate with a special interest for corporate finance and research.
 A curious mind and the ability to solve complex problems in an analytic way are my strengths.
