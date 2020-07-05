@@ -5,7 +5,7 @@ date: "`r Sys.Date()`"
 output:
   pagedown::html_resume:
     # set it to true for a self-contained HTML page but it'll take longer to render
-    self_contained: false
+    self_contained: true
 # uncomment this line to produce HTML and PDF in RStudio:
 knit: pagedown::chrome_print
 ---
@@ -14,7 +14,7 @@ Aside
 ================================================================================
 
 
-![Nicola Kollmann](https://avatars3.githubusercontent.com/u/57948862?s=460&u=258033fc01717effe401fe98fa3bf70054d66d00&v=4){width=80%}
+![Nicola Kollmann](https://avatars3.githubusercontent.com/u/57948862?s=460&u=258033fc01717effe401fe98fa3bf70054d66d00&v=4){style="border-radius:50%"}
 
 
 For more information, please contact me via [email](mailto:nicola@kollmann.li). References are available upon request.
@@ -72,15 +72,15 @@ Education {data-icon=graduation-cap data-concise=true}
 
 PhD in Finance
 
-St.Gallen, Switzerland
+St.Gallen, Switzerland `r emo::ji("Switzerland")`
 
 currently
 
 ### University of St.Gallen (HSG)
 
-Master of Arts HSG in Banking and Finance
+M.A HSG in Banking and Finance 
 
-St.Gallen, Switzerland
+St.Gallen, Switzerland `r emo::ji("Switzerland")`
 
 2018
 
@@ -90,15 +90,15 @@ Thesis: *The Adoption of Electronic Banking: Evidence from Liechtenstein*
 
 Exchange Semester
 
-Oslo, Norway
+Oslo, Norway `r emo::ji("Norway")`
 
 2017
 
 ### University of Bern
 
-Bachelor of Science in Business Administration
+B.Sc. in Business Administration
 
-Bern, Switzerland
+Bern, Switzerland `r emo::ji("Switzerland")`
 
 2016
 
@@ -109,7 +109,7 @@ Research Experience {data-icon=laptop}
 
 Competence Center of Corporate Finance
 
-St.Gallen, Switzerland
+St.Gallen, Switzerland `r emo::ji("Switzerland")`
 
 currently - 2018
 
@@ -123,7 +123,7 @@ Professional Experience {data-icon=suitcase}
 
 Lopag Trust reg.
 
-Ruggell, Liechtenstein
+Ruggell, Liechtenstein `r emo::ji("Liechtenstein")`
 
 2018
 
@@ -136,7 +136,7 @@ Ruggell, Liechtenstein
 
 Lopag Trust reg.
 
-Ruggell, Liechtenstein
+Ruggell, Liechtenstein `r emo::ji("Liechtenstein")`
 
 2016 - 2015
 
@@ -150,7 +150,7 @@ Ruggell, Liechtenstein
 
 Hilti AG
 
-Schaan, Liechtenstein
+Schaan, Liechtenstein `r emo::ji("Liechtenstein")`
 
 2014
 
