@@ -7,7 +7,7 @@ output:
     # set it to true for a self-contained HTML page but it'll take longer to render
     self_contained: true
 # uncomment this line to produce HTML and PDF in RStudio:
-# knit: pagedown::chrome_print
+knit: pagedown::chrome_print
 ---
 
 Aside
@@ -32,7 +32,7 @@ Languages {#languages}
 --------------------------------------------------------------------------------
 |&nbsp; | &nbsp;             |  
 |:------|-------------------:|
-|German | nativ              |
+|German | native              |
 |English| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; full professional  |
 |Spanish| limited working    |
 |Russian| elementary         |
@@ -85,8 +85,6 @@ St.Gallen, Switzerland `r emo::ji("Switzerland")`
 
 2018
 
-Thesis: *The Adoption of Electronic Banking: Evidence from Liechtenstein*
-
 ### BI Norwegian Business School
 
 Exchange Semester
@@ -103,7 +101,7 @@ Bern, Switzerland `r emo::ji("Switzerland")`
 
 2016
 
-Research Experience {data-icon=laptop}
+Research Experience {data-icon=bar-chart}
 --------------------------------------------------------------------------------
 
 ### Graduate Research Associate
@@ -116,6 +114,7 @@ currently - 2018
 
 - Looking into the role of creditors in corporate governance.
 - Created a data base on covenant violations.
+- Teaching Assistant for Master courses in finance.
 
 Professional Experience {data-icon=suitcase}
 --------------------------------------------------------------------------------
@@ -128,10 +127,10 @@ Ruggell, Liechtenstein `r emo::ji("Liechtenstein")`
 
 2018
 
-::: concise
+
 - Created and lead workshops on business model innovation. 
 - Worked with the business model canvas and empathy maps.
-:::
+
 
 ### Financial Services, intern
 
@@ -141,11 +140,11 @@ Ruggell, Liechtenstein `r emo::ji("Liechtenstein")`
 
 2016 - 2015
 
-::: concise
+
 - Assisted in the implementation of a new ERP system. 
 - Worked on a digitalization project.
 - Assisted in the administration of a family office.
-:::
+
 
 ### Group Accounting, intern
 
@@ -155,7 +154,7 @@ Schaan, Liechtenstein `r emo::ji("Liechtenstein")`
 
 2014
 
-::: concise
-- Wrote a chapter on "Performance Management" in the corporate finance manual. 
+
+- Wrote a chapter on "Performance Management" in the finance manual. 
 - Analyzed balanced scorecards and created an overview of key performance indicators.
-:::
+
