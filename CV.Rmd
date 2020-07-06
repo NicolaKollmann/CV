@@ -19,8 +19,6 @@ Aside
 
 For more information, please contact me via [email](mailto:nicola@kollmann.li). References are available upon request.
 
-***
-
 Skills {#skills}
 --------------------------------------------------------------------------------
 
@@ -40,10 +38,11 @@ Languages {#languages}
 |Russian| elementary         |
 |French | elementary         |
 
+***
 
 Disclaimer {#disclaimer}
 --------------------------------------------------------------------------------
-
+ 
 This CV was crafted with [**pagedown**](https://github.com/rstudio/pagedown).  
 
 Find the source of this CV on [**Github**](https://github.com/NicolaKollmann/CV).
