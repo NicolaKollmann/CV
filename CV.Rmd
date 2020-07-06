@@ -7,7 +7,7 @@ output:
     # set it to true for a self-contained HTML page but it'll take longer to render
     self_contained: true
 # uncomment this line to produce HTML and PDF in RStudio:
-knit: pagedown::chrome_print
+# knit: pagedown::chrome_print
 ---
 
 Aside
@@ -57,10 +57,12 @@ Main
 Nicola Kollmann {#title}
 --------------------------------------------------------------------------------
 
-<i class="fa fa-mobile"></i> &nbsp; +423 789 23 11 &nbsp;|&nbsp; <i class="fa fa-envelope"></i> nicola@kollmann.li &nbsp;|&nbsp; [<i class="fa fa-linkedin"></i>](https://www.linkedin.com/in/nicola-andreas-kollmann-546b06128/) &nbsp;|&nbsp; [<i class="fa fa-twitter"></i>](https://twitter.com/NicolaKollmann) &nbsp;|&nbsp; [<i class="fa fa-github"></i>](https://github.com/NicolaKollmann)  
+<i class="fa fa-mobile"></i> +423 789 23 11 &nbsp;|&nbsp; <i class="fa fa-envelope"></i> nicola@kollmann.li &nbsp;|&nbsp; [<i class="fa fa-linkedin"></i>](https://www.linkedin.com/in/nicola-andreas-kollmann-546b06128/) &nbsp;|&nbsp; [<i class="fa fa-twitter"></i>](https://twitter.com/NicolaKollmann) &nbsp;|&nbsp; [<i class="fa fa-github"></i>](https://github.com/NicolaKollmann) &nbsp;|&nbsp; [<i class="fa fa-safari"></i>](https://nicolakollmann.netlify.app)    
 
+<div style="text-align: justify"> 
 25-year-old PhD candidate in finance, with an enormous interest in conducting research and everything related to data science.
 My most valuable qualities are a curious mind and the ability to solve complex problems in an analytic way.
+</div>
 
 ***
 
@@ -77,7 +79,7 @@ currently
 
 ### University of St.Gallen (HSG)
 
-M.A HSG in Banking and Finance 
+M.A. HSG in Banking and Finance 
 
 St.Gallen, Switzerland `r emo::ji("Switzerland")`
 
