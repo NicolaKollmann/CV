@@ -57,7 +57,7 @@ Main
 Nicola Kollmann {#title}
 --------------------------------------------------------------------------------
 
-<i class="fa fa-mobile"></i> +423 789 23 11 &nbsp;|&nbsp; <i class="fa fa-envelope"></i> nicola@kollmann.li &nbsp;|&nbsp; [<i class="fa fa-linkedin"></i>](https://www.linkedin.com/in/nicolakollmann/) &nbsp;|&nbsp; [<i class="fa fa-twitter"></i>](https://twitter.com/NicolaKollmann) &nbsp;|&nbsp; [<i class="fa fa-github"></i>](https://github.com/NicolaKollmann) &nbsp;|&nbsp; [<i class="fa fa-safari"></i>](https://nicolakollmann.netlify.app)    
+<i class="fa fa-mobile"></i> +423 789 23 11 &nbsp;|&nbsp; <i class="fa fa-envelope"></i> nicola@kollmann.li &nbsp;|&nbsp; [<i class="fa fa-linkedin"></i>](https://www.linkedin.com/in/nicolakollmann/) &nbsp;|&nbsp; [<i class="fa fa-twitter"></i>](https://twitter.com/NicolaKollmann) &nbsp;|&nbsp; [<i class="fa fa-github"></i>](https://github.com/NicolaKollmann) &nbsp;|&nbsp; [<i class="fa fa-safari"></i>](https://nkollmann.netlify.app)    
 
 <div style="text-align: justify"> 
 25-year-old PhD candidate in finance, with an enormous interest in conducting research and everything related to data science.
