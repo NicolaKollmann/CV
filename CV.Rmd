@@ -26,7 +26,7 @@ Skills {#skills}
 
 - Full experience with MacOS and Windows.
 
-- Highly skilled in Microsoft Office, R, Stata & LaTeX.
+- Highly skilled in Microsoft Office, R, Python, Julia, Stata & LaTeX.
 
 Languages {#languages}
 --------------------------------------------------------------------------------
