@@ -22,7 +22,7 @@ For more information, please contact me via [email](mailto:nicola@kollmann.li). 
 Skills {#skills}
 --------------------------------------------------------------------------------
 
-- Experienced in statistical analysis, statistical learning models, and optimization methods.
+- Experienced in statistical analysis, statistical learning models, econometrics and optimization methods.
 
 - Full experience with MacOS and Windows.
 
