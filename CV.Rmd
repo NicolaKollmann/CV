@@ -16,6 +16,9 @@ Aside
 
 ![Nicola Kollmann](https://avatars3.githubusercontent.com/u/57948862?s=460&u=258033fc01717effe401fe98fa3bf70054d66d00&v=4){style="border-radius:50%"}
 
+[<i class='fas fa-download'></i> Download a PDF of this CV](https://github.com/NicolaKollmann/CV/raw/master/CV.pdf)
+
+
 For more information, please contact me via [email](mailto:nicola@kollmann.li). References are available upon request.
 
 Skills {#skills}
