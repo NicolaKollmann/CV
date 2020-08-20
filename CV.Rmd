@@ -40,7 +40,6 @@ Languages {#languages}
 |Spanish| limited working    |
 |Russian| elementary         |
 |French | elementary         |
-|&nbsp; | &nbsp;             |  
 
 ***
 
