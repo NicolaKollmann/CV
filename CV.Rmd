@@ -4,6 +4,7 @@ author: Nicola Kollmann
 date: "`r Sys.Date()`"
 output:
   pagedown::html_resume:
+    css: ['cv.css', 'resume']
     # set it to true for a self-contained HTML page but it'll take longer to render
     self_contained: true
 # uncomment this line to produce HTML and PDF in RStudio:
@@ -13,15 +14,12 @@ knit: pagedown::chrome_print
 Aside
 ================================================================================
 
-
 ![Nicola Kollmann](https://avatars3.githubusercontent.com/u/57948862?s=460&u=258033fc01717effe401fe98fa3bf70054d66d00&v=4){style="border-radius:50%"}
-
 
 For more information, please contact me via [email](mailto:nicola@kollmann.li). References are available upon request.
 
 Skills {#skills}
 --------------------------------------------------------------------------------
-
 - Experienced in statistical analysis, statistical learning models, econometrics and optimization methods.
 
 - Full experience with MacOS and Windows.
@@ -33,7 +31,7 @@ Languages {#languages}
 |&nbsp; | &nbsp;             |  
 |:------|-------------------:|
 |German | native              |
-|English| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; full professional  |
+|English| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; full professional  |
 |Spanish| limited working    |
 |Russian| elementary         |
 |French | elementary         |
