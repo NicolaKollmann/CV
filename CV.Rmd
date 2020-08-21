@@ -11,6 +11,11 @@ output:
 # knit: pagedown::chrome_print
 ---
 
+```{r, include=FALSE}
+library(emo)
+```
+
+
 Aside
 ================================================================================
 
@@ -46,11 +51,13 @@ Languages {#languages}
 Disclaimer {#disclaimer}
 --------------------------------------------------------------------------------
  
-This CV was crafted with [**pagedown**](https://github.com/rstudio/pagedown).  
+<font size="1">
 
-Last updated on `r Sys.Date()`.
+This CV was crafted with [**pagedown**](https://github.com/rstudio/pagedown).
 
+`r emo::ji("calendar")` Last updated on `r Sys.Date()`.
 
+</font>  
 
 Main
 ================================================================================
