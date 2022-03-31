@@ -26,7 +26,7 @@ Aside
 [<i class='fas fa-download'></i> Download a PDF of this CV](https://github.com/NicolaKollmann/CV/raw/master/CV.pdf)
 
 
-For more information, please contact me via [email](mailto:nicola@kollmann.li). References are available upon request.
+For more information, please contact me via [email](mailto:nicola.kollmann@icloud.com). References are available upon request.
 
 Skills {#skills}
 --------------------------------------------------------------------------------
@@ -41,7 +41,7 @@ Languages {#languages}
 |&nbsp; | &nbsp;             |  
 |:------|-------------------:|
 |German | native              |
-|English| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; full professional  |
+|English| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; full professional  |
 |Spanish| limited working    |
 |Russian| elementary         |
 |French | elementary         |
@@ -65,10 +65,10 @@ Main
 Nicola Kollmann {#title}
 --------------------------------------------------------------------------------
 
-<i class="fa fa-mobile"></i> +423 789 23 11 &nbsp;|&nbsp; <i class="fa fa-envelope"></i> nicola@kollmann.li &nbsp;|&nbsp; [<i class="fa fa-linkedin"></i>](https://www.linkedin.com/in/nicolakollmann/) &nbsp;|&nbsp; [<i class="fa fa-twitter"></i>](https://twitter.com/NicolaKollmann) &nbsp;|&nbsp; [<i class="fa fa-github"></i>](https://github.com/NicolaKollmann) &nbsp;|&nbsp; [<i class="fa fa-safari"></i>](https://nkollmann.netlify.app)    
+<i class="fa fa-mobile"></i> &nbsp; +41 78 231 19 43 &nbsp;|&nbsp; <i class="fa fa-envelope"></i> &nbsp; nicola.kollmann@icloud.com &nbsp;|&nbsp; [<i class="fa fa-linkedin"></i>](https://www.linkedin.com/in/nicolakollmann/) &nbsp;|&nbsp; [<i class="fa fa-twitter"></i>](https://twitter.com/NicolaKollmann) &nbsp;|&nbsp; [<i class="fa fa-github"></i>](https://github.com/NicolaKollmann) &nbsp;|&nbsp; [<i class="fa fa-safari"></i>](https://nkollmann.netlify.app)    
 
 <div style="text-align: justify"> 
-26-year-old PhD candidate in finance, with an enormous interest in conducting research and everything related to data science.
+27-year-old PhD candidate in finance, with an enormous interest in conducting research and everything related to data science.
 My most valuable qualities are a curious mind and the ability to solve complex problems in an analytic way.
 </div>
 
@@ -123,6 +123,17 @@ currently - 2018
 - Looking into the role of creditors in corporate governance.
 - Created a data base on covenant violations.
 - Teaching assistant for master courses in finance.
+- Supervision of masters theses.
+
+### Research Associate
+
+Stiftung Zukunft.li
+
+Ruggell, Liechtenstein `r emo::ji("Liechtenstein")`
+
+currently - 2021
+
+- Project lead
 
 Professional Experience {data-icon=suitcase}
 --------------------------------------------------------------------------------
@@ -164,5 +175,6 @@ Schaan, Liechtenstein `r emo::ji("Liechtenstein")`
 
 
 - Wrote a chapter on "Performance Management" in the finance manual. 
-- Analyzed balanced scorecards and created an overview of key performance indicators.
+- Analyzed balanced scorecards.
+- Created an overview of key performance indicators.
 

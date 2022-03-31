@@ -27,9 +27,15 @@ h3 {
   --pagedjs-margin-left: 0.3in;
 }
 
+* {
+  /* Override default top margin */
+  --pagedjs-margin-top: 0.5in;
+  --pagedjs-margin-bottom: 0.5in;
+}
+
 /* Customize some of the sizing variables */
 :root {
-  --sidebar-width: 13rem; /* Shrink sidebar width  */
+  --sidebar-width: 12rem; /* Shrink sidebar width  */
   --sidebar-background-color: #f3f9f9; /* Make sidebar very light teal */
   --sidebar-horizontal-padding: 0.05in; /* Reduce sidebar padding */
 }
@@ -39,5 +45,20 @@ h3 {
   width: calc(var(--sidebar-width) + 9px);
   line-height: 1.2;
   font-size: 0.75rem;
+}
+
+/* unvisited link */
+a:link {
+  color: teal;
+}
+
+/* mouse over link */
+a:hover {
+  color: #dcaf4d;
+}
+
+/* visited link */
+a:visited {
+  color: #444;
 }
 
