@@ -65,7 +65,7 @@ This CV was crafted with [**pagedown**](https://github.com/rstudio/pagedown).
 <i class="fa fa-mobile"></i>   +41 78 231 19 43  \|  <i class="fa fa-envelope"></i>   [nicola.kollmann\@icloud.com](mailto:nicola.kollmann@icloud.com){.email}  \|  [<i class="fa fa-linkedin"></i>](https://www.linkedin.com/in/nicolakollmann/)  \|  [<i class="fa fa-twitter"></i>](https://twitter.com/NicolaKollmann)  \|  [<i class="fa fa-github"></i>](https://github.com/NicolaKollmann)
 
 ::: {style="text-align: justify"}
-28-year-old PhD candidate in finance, with an enormous interest in conducting research and everything related to data science. My most valuable qualities are a curious mind and the ability to solve complex problems in an analytic way.
+29-year-old PhD in finance, with an enormous interest in conducting research and everything related to data science. My most valuable qualities are a curious mind and the ability to solve complex problems in an analytic way.
 :::
 
 ------------------------------------------------------------------------
@@ -78,7 +78,7 @@ Ph.D. in Finance
 
 St.Gallen, Switzerland `r emo::ji("Switzerland")`
 
-currently - 2019
+2023 - 2019
 
 The Ph.D. in Finance (PiF) programme is tailored towards a high-quality and internationally orientated education in financial research. It prepares students to pursue an academic career or to take up an applied research position in a central bank, an international policy institution or in the financial sector.
 
